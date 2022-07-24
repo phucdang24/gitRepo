@@ -31,5 +31,7 @@ int main () {
     number->putFraction();
     
 
+    fraction *number2 = new fraction();
+
     return 0;
 }
