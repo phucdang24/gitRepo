@@ -17,7 +17,8 @@ class fraction {
         }
 
 
-        fraction (){}
+        fraction (float width, float height){
+        }
 
 };
 
