@@ -32,6 +32,6 @@ int main () {
     
 
     fraction *number2 = new fraction();
-
+    
     return 0;
 }
