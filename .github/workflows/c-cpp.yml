@@ -22,8 +22,6 @@ jobs:
           mode: exactly
           count: 0
           labels: 'lable-exactly'
-      - name: configure
-        run: ./configure
       - name: make
         run: make
       - name: make check
