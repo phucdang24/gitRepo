@@ -23,7 +23,7 @@ class fraction {
             this.width = width;
             this.height = height;
         }
-
+    dedw
 };
 
 
