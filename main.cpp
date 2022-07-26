@@ -6,6 +6,8 @@ class fraction {
     public:
         int numerator;
         int denominator;
+        float width;
+        float height;
 
         void getFraction (int numerator, int denominator) {
             this->numerator = numerator;
@@ -18,6 +20,8 @@ class fraction {
 
 
         fraction (float width, float height){
+            this.width = width;
+            this.height = height;
         }
 
 };
