@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v3
           with:
             mode: exactly
-            count: 1
+            count: 0
             labels: 'lable-exactly'
       - name: configure
           run: ./configure
